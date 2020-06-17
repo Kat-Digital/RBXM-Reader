@@ -15,7 +15,7 @@ local HttpService = game:GetService("HttpService")
 local RBXM        = require(script.RBXMDecoder)
 
 --Perform HTTP request
-local httpOkay, data = pcall(HttpService.GetAsync, HttpService, "https://experimental.anna.gg/wood.rbxm")
+local httpOkay, data = pcall(HttpService.GetAsync, HttpService, "https://cdn.kat.gg/Testing/Tree.rbxm")
 
 --Read instance or print error
 if (httpOkay) then
