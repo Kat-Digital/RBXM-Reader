@@ -2,9 +2,6 @@
 	@Author: Anna W. <https://devforum.roblox.com/u/ImActuallyAnna>
 	@Description: Utility to create stream-like behavior from a string of data
 	@Date of Creation: 19. 04. 2020
-
-	This file is part of the Dragonfly Runtime Environment distribution:
-	https://github.com/Kat-Digital/Dragonfly-Runtime-Environment
 	
 	Copyright (C) 2020 Kat Digital Limited.
 	 

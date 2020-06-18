@@ -12,7 +12,7 @@ For a code example, see:
 ```lua
 --Get required Roblox services
 local HttpService = game:GetService("HttpService")
-local RBXM        = require(script.RBXMDecoder)
+local RBXM        = require(script.RBXMReader)
 
 --Perform HTTP request
 local httpOkay, data = pcall(HttpService.GetAsync, HttpService, "https://cdn.kat.gg/Testing/Tree.rbxm")

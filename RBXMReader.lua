@@ -1,14 +1,28 @@
 --[[
-	@Author: Anna W. <anna@kat.digital> Skylar L. <https://devforum.roblox.com/u/ScobayDu>
+	@Author: Anna W. Anna W. <https://devforum.roblox.com/u/ImActuallyAnna> Skylar L. <https://devforum.roblox.com/u/ScobayDu>
 	@Description: RBXM File Reader
 	@Date of Creation: 09. 05. 2020
+
+	Copyright (C) 2020 Kat Digital Limited.
+	 
+	This program is free software: you can redistribute it and/or modify  
+	it under the terms of the GNU General Public License as published by  
+	the Free Software Foundation, version 3.
+	
+	This program is distributed in the hope that it will be useful, but 
+	WITHOUT ANY WARRANTY; without even the implied warranty of 
+	MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU 
+	General Public License for more details.
+	
+	You should have received a copy of the GNU General Public License 
+	along with this program. If not, see <http://www.gnu.org/licenses/>
 --]]
 
 --Binary format specification can be found at:
 --http://www.classy-studios.com/Downloads/RobloxFileSpec.pdf
 
 --Dependencies
-local BASE_FOLDER   = script.Parent
+local BASE_FOLDER   = script
 local Binary        = require(BASE_FOLDER.Binary)
 local Stream        = require(BASE_FOLDER.Stream)
 local LZ4           = require(BASE_FOLDER.LZ4)
