@@ -2,10 +2,10 @@
 <b>Roblox Binary Reader</b> <br />
 <sup>Copyright (C) 2020 Kat Digital Limited. All rights reserved.</sup>
 
-# RBXM-Reader
+## Roblox Binary Reader
 A module to read Roblox model files and convert them to instances. Does not work on unions and non-scriptable properties.
 
-# Usage
+## Example
 The module returns a single function. This function takes the raw RBXM binary data and returns a Model instance containing all instances contained within that model.
 
 For a code example, see:
@@ -27,5 +27,9 @@ else
 end
 ```
 
-# License
+## Releases
+You can find all releases of this project here: <br />
+https://github.com/Kat-Digital/RBXM-Reader/releases
+
+## License
 This project is licensed under the GPLv3 license, meaning you can use it in your own projects but must open-source anything you distribute that uses this code under the same license, and state any changes you've made to it. We encourage you to learn from our work but do not want it to be distributed as part of proprietary or commercial products.
