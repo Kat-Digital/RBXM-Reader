@@ -31,5 +31,9 @@ end
 You can find all releases of this project here: <br />
 https://github.com/Kat-Digital/RBXM-Reader/releases
 
+## Documentation
+Technical documentation and information about the Kat Digital Roblox model file decoder project.
+https://docs.kat.gg/Projects/Roblox-Model-File-Decoder
+
 ## License
 This project is licensed under the GPLv3 license, meaning you can use it in your own projects but must open-source anything you distribute that uses this code under the same license, and state any changes you've made to it. We encourage you to learn from our work but do not want it to be distributed as part of proprietary or commercial products.
