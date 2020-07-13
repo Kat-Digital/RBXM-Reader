@@ -32,7 +32,7 @@ You can find all releases of this project here: <br />
 https://github.com/Kat-Digital/RBXM-Reader/releases
 
 ## Documentation
-Technical documentation and information about the Kat Digital Roblox model file decoder project.
+Technical documentation and information about the Kat Digital Roblox model file decoder project. <br />
 https://docs.kat.gg/Projects/Roblox-Model-File-Decoder
 
 ## License
