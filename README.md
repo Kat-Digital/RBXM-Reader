@@ -1,4 +1,4 @@
-<img src="https://cdn.kat.gg/Branding/Version1/Logo_Main.png" alt="Kat Digital" height="50" />
+<img src="https://cdn.kat.digital/Branding/Version1/Logo_Main.png" alt="Kat Digital" height="50" />
 <b>Roblox Binary Reader</b> <br />
 <sup>Copyright (C) 2020 Kat Digital Limited. All rights reserved.</sup>
 
